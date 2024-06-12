@@ -1,0 +1,508 @@
+name,position,shirt_no
+Thibaut Courtois,Goalkeeper,1
+Andriy Lunin,Goalkeeper,13
+Kepa Arrizabalaga,Goalkeeper,25
+Éder Militão,Centre-Back,3
+David Alaba,Centre-Back,4
+Antonio Rüdiger,Centre-Back,22
+Nacho Fernández,Centre-Back,6
+Ferland Mendy,Left-Back,23
+Fran García,Left-Back,20
+Daniel Carvajal,Right-Back,2
+Lucas Vázquez,Right-Back,17
+Aurélien Tchouaméni,Defensive Midfield,18
+Federico Valverde,Central Midfield,15
+Eduardo Camavinga,Central Midfield,12
+Toni Kroos,Central Midfield,8
+Luka Modric,Central Midfield,10
+Dani Ceballos,Central Midfield,19
+Jude Bellingham,Attacking Midfield,5
+Brahim Díaz,Attacking Midfield,21
+Arda Güler,Attacking Midfield,24
+Nico Paz,Attacking Midfield,32
+Vinicius Junior,Left Winger,7
+Rodrygo,Right Winger,11
+Joselu,Centre-Forward,14
+Marc-André ter Stegen,Goalkeeper,1
+Iñaki Peña,Goalkeeper,13
+Ander Astralaga,Goalkeeper,26
+Ronald Araujo,Centre-Back,4
+Jules Koundé,Centre-Back,23
+Andreas Christensen,Centre-Back,15
+Pau Cubarsí,Centre-Back,33
+Iñigo Martínez,Centre-Back,5
+Alejandro Balde,Left-Back,3
+Marcos Alonso,Left-Back,17
+João Cancelo,Right-Back,2
+Héctor Fort,Right-Back,39
+Oriol Romeu,Defensive Midfield,18
+Gavi,Central Midfield,6
+Pedri,Central Midfield,8
+Frenkie de Jong,Central Midfield,21
+İlkay Gündoğan,Central Midfield,22
+Fermín López,Central Midfield,16
+Sergi Roberto,Central Midfield,20
+Ferran Torres,Left Winger,7
+João Félix,Left Winger,14
+Lamine Yamal,Right Winger,27
+Raphinha,Right Winger,11
+Vitor Roque,Centre-Forward,19
+Robert Lewandowski,Centre-Forward,9
+Marc Guiu,Centre-Forward,38
+Álex Remiro,Goalkeeper,1
+Unai Marrero,Goalkeeper,13
+Robin Le Normand,Centre-Back,24
+Igor Zubeldia,Centre-Back,5
+Aritz Elustondo,Centre-Back,6
+Jon Pacheco,Centre-Back,20
+Kieran Tierney,Left-Back,17
+Aihen Muñoz,Left-Back,3
+Javi Galán,Left-Back,25
+Hamari Traoré,Right-Back,18
+Álvaro Odriozola,Right-Back,2
+Jon Aramburu,Right-Back,39
+Martín Zubimendi,Defensive Midfield,4
+Urko González de Zarate,Defensive Midfield,15
+Mikel Merino,Central Midfield,8
+Beñat Turrientes,Central Midfield,22
+Jon Ander Olasagasti,Central Midfield,16
+Brais Méndez,Attacking Midfield,23
+Arsen Zakharyan,Attacking Midfield,12
+Jon Magunazelaia,Attacking Midfield,28
+Mikel Oyarzabal,Left Winger,10
+Ander Barrenetxea,Left Winger,7
+Martín Merquelanz,Left Winger,-
+Takefusa Kubo,Right Winger,14
+Umar Sadiq,Centre-Forward,19
+Sheraldo Becker,Centre-Forward,11
+André Silva,Centre-Forward,21
+Carlos Fernández,Centre-Forward,9
+Jan Oblak,Goalkeeper,13
+Horaţiu Moldovan,Goalkeeper,1
+José María Giménez,Centre-Back,2
+Mario Hermoso,Centre-Back,22
+Axel Witsel,Centre-Back,20
+Stefan Savic,Centre-Back,15
+Gabriel Paulista,Centre-Back,4
+Reinildo Mandava,Left-Back,23
+Nahuel Molina,Right-Back,16
+César Azpilicueta,Right-Back,3
+Rodrigo de Paul,Central Midfield,5
+Marcos Llorente,Central Midfield,14
+Arthur Vermeeren,Central Midfield,18
+Pablo Barrios,Central Midfield,24
+Koke,Central Midfield,6
+Saúl Ñíguez,Central Midfield,8
+Thomas Lemar,Attacking Midfield,11
+Samuel Lino,Left Winger,12
+Rodrigo Riquelme,Left Winger,17
+Marcos Paulo,Left Winger,-
+Vitolo,Left Winger,-
+Ángel Correa,Right Winger,10
+Antoine Griezmann,Centre-Forward,7
+Álvaro Morata,Centre-Forward,19
+Memphis Depay,Centre-Forward,9
+Unai Simón,Goalkeeper,1
+Julen Agirrezabala,Goalkeeper,13
+Dani Vivian,Centre-Back,3
+Aitor Paredes,Centre-Back,4
+Yeray Álvarez,Centre-Back,5
+Yuri Berchiche,Left-Back,17
+Imanol García de Albéniz,Left-Back,19
+Iñigo Lekue,Right-Back,15
+Óscar de Marcos,Right-Back,18
+Mikel Vesga,Defensive Midfield,6
+Beñat Prados,Central Midfield,24
+Iñigo Ruiz de Galarreta,Central Midfield,16
+Ander Herrera,Central Midfield,21
+Dani García,Central Midfield,14
+Mikel Jauregizar,Central Midfield,31
+Oihan Sancet,Attacking Midfield,8
+Iker Muniain,Attacking Midfield,10
+Unai Gómez,Attacking Midfield,30
+Nico Williams,Left Winger,11
+Álex Berenguer,Left Winger,7
+Adu Ares,Left Winger,23
+Iñaki Williams,Right Winger,9
+Gorka Guruzeta,Centre-Forward,12
+Asier Villalibre,Centre-Forward,20
+Raúl García,Centre-Forward,22
+Paulo Gazzaniga,Goalkeeper,13
+Juan Carlos,Goalkeeper,1
+Toni Fuidias,Goalkeeper,26
+Eric García,Centre-Back,25
+David López,Centre-Back,5
+Daley Blind,Centre-Back,17
+Juanpe,Centre-Back,15
+Miguel Gutiérrez,Left-Back,3
+Yan Couto,Right-Back,20
+Arnau Martínez,Right-Back,4
+Aleix García,Central Midfield,14
+Yangel Herrera,Central Midfield,21
+Pablo Torre,Central Midfield,18
+Jhon Solís,Central Midfield,22
+Iván Martín,Attacking Midfield,23
+Borja García,Attacking Midfield,10
+Sávio,Left Winger,16
+Toni Villa,Left Winger,19
+Viktor Tsygankov,Right Winger,8
+Portu,Right Winger,24
+Valery Fernández,Right Winger,11
+Artem Dovbyk,Centre-Forward,9
+Cristhian Stuani,Centre-Forward,7
+Giorgi Mamardashvili,Goalkeeper,25
+Jaume Doménech,Goalkeeper,1
+Cristian Rivero,Goalkeeper,13
+Cristhian Mosquera,Centre-Back,3
+Yarek Gasiorowski,Centre-Back,34
+Mouctar Diakhaby,Centre-Back,4
+Cenk Özkacar,Centre-Back,15
+José Gayà,Left-Back,14
+Jesús Vázquez,Left-Back,21
+Thierry Correia,Right-Back,12
+Dimitri Foulquier,Right-Back,20
+Pepelu,Defensive Midfield,18
+Hugo Guillamón,Defensive Midfield,6
+Javi Guerra,Central Midfield,8
+André Almeida,Central Midfield,10
+Selim Amallah,Attacking Midfield,19
+Pablo Gozálbez,Attacking Midfield,27
+Diego López,Left Winger,16
+Fran Pérez,Right Winger,23
+Peter Federico,Right Winger,11
+Sergi Canós,Right Winger,7
+Hugo González,Right Winger,30
+Hugo Duro,Centre-Forward,9
+Roman Yaremchuk,Centre-Forward,17
+Alberto Marí,Centre-Forward,22
+Filip Jørgensen,Goalkeeper,13
+Pepe Reina,Goalkeeper,1
+Jorge Cuenca,Centre-Back,5
+Yerson Mosquera,Centre-Back,2
+Eric Bailly,Centre-Back,12
+Raúl Albiol,Centre-Back,3
+Aïssa Mandi,Centre-Back,23
+Alfonso Pedraza,Left-Back,24
+Alberto Moreno,Left-Back,18
+Carlos Romero,Left-Back,37
+Juan Foyth,Right-Back,8
+Adrià Altimira,Right-Back,26
+Kiko Femenía,Right-Back,17
+Ramón Terrats,Defensive Midfield,20
+Étienne Capoue,Defensive Midfield,6
+Francis Coquelin,Defensive Midfield,19
+Santi Comesaña,Central Midfield,4
+Dani Parejo,Central Midfield,10
+Manu Trigueros,Central Midfield,14
+Álex Baena,Attacking Midfield,16
+Denis Suárez,Attacking Midfield,22
+Gonçalo Guedes,Left Winger,9
+Yéremy Pino,Right Winger,21
+Ilias Akhomach,Right Winger,27
+Bertrand Traoré,Right Winger,25
+Alexander Sørloth,Centre-Forward,11
+Gerard Moreno,Centre-Forward,7
+José Luis Morales,Centre-Forward,15
+Jorge Pascual,Centre-Forward,30
+Ørjan Nyland,Goalkeeper,13
+Marko Dmitrovic,Goalkeeper,1
+Loïc Badé,Centre-Back,22
+Kike Salas,Centre-Back,2
+Marcão,Centre-Back,23
+Nemanja Gudelj,Centre-Back,6
+Tanguy Nianzou,Centre-Back,14
+Sergio Ramos,Centre-Back,4
+Adrià Pedrosa,Left-Back,3
+Marcos Acuña,Left-Back,19
+Juanlu Sánchez,Right-Back,26
+Jesús Navas,Right-Back,16
+Boubakary Soumaré,Defensive Midfield,24
+Lucien Agoumé,Defensive Midfield,42
+Djibril Sow,Central Midfield,18
+Óliver Torres,Central Midfield,21
+Joan Jordán,Central Midfield,8
+Hannibal,Attacking Midfield,46
+Lucas Ocampos,Left Winger,5
+Dodi Lukébakio,Right Winger,11
+Suso,Right Winger,7
+Erik Lamela,Right Winger,17
+Adnan Januzaj,Right Winger,25
+Youssef En-Nesyri,Centre-Forward,15
+Isaac Romero,Centre-Forward,20
+Alejo Véliz,Centre-Forward,10
+Rafa Mir,Centre-Forward,9
+Mariano Díaz,Centre-Forward,12
+Rui Silva,Goalkeeper,13
+Claudio Bravo,Goalkeeper,1
+Chadi Riad,Centre-Back,28
+Germán Pezzella,Centre-Back,6
+Marc Bartra,Centre-Back,15
+Sokratis Papastathopoulos,Centre-Back,19
+Juan Miranda,Left-Back,3
+Abner,Left-Back,20
+Héctor Bellerín,Right-Back,2
+Youssouf Sabaly,Right-Back,23
+Guido Rodríguez,Defensive Midfield,5
+Johnny Cardoso,Defensive Midfield,4
+Marc Roca,Defensive Midfield,21
+William Carvalho,Defensive Midfield,14
+Sergi Altimira,Central Midfield,27
+Pablo Fornals,Attacking Midfield,18
+Nabil Fekir,Attacking Midfield,8
+Isco,Attacking Midfield,22
+Rodri Sánchez,Attacking Midfield,17
+Assane Diao,Left Winger,38
+Abde Ezzalzouli,Left Winger,7
+Ayoze Pérez,Left Winger,10
+Aitor Ruibal,Right Winger,24
+Willian José,Centre-Forward,12
+Chimy Ávila,Centre-Forward,9
+Cédric Bakambu,Centre-Forward,11
+Iván Villar,Goalkeeper,13
+Vicente Guaita,Goalkeeper,25
+Unai Núñez,Centre-Back,4
+Carl Starfelt,Centre-Back,2
+Joseph Aidoo,Centre-Back,15
+Carlos Domínguez,Centre-Back,28
+Manu Sánchez,Left-Back,23
+Mihailo Ristic,Left-Back,21
+Óscar Mingueza,Right-Back,3
+Javier Manquillo,Right-Back,22
+Kevin Vázquez,Right-Back,20
+Renato Tapia,Defensive Midfield,5
+Jailson,Defensive Midfield,16
+Fran Beltrán,Central Midfield,8
+Luca de la Torre,Central Midfield,14
+Carlos Dotor,Central Midfield,6
+Hugo Sotelo,Central Midfield,30
+Williot Swedberg,Attacking Midfield,19
+Jonathan Bamba,Left Winger,17
+Franco Cervi,Left Winger,11
+Hugo Álvarez,Left Winger,33
+Tadeo Allende,Right Winger,9
+Carles Pérez,Right Winger,7
+Miguel Rodríguez,Right Winger,24
+Jørgen Strand Larsen,Centre-Forward,18
+Anastasios Douvikas,Centre-Forward,12
+Iago Aspas,Centre-Forward,10
+Sergio Herrera,Goalkeeper,1
+Aitor Fernández,Goalkeeper,13
+David García,Centre-Back,5
+Alejandro Catena,Centre-Back,24
+Unai García,Centre-Back,4
+Jorge Herrando,Centre-Back,28
+Juan Cruz,Left-Back,3
+Johan Mojica,Left-Back,22
+Jesús Areso,Right-Back,12
+Rubén Peña,Right-Back,15
+Lucas Torró,Defensive Midfield,6
+Iker Muñoz,Defensive Midfield,34
+Jon Moncayola,Central Midfield,7
+Pablo Ibáñez,Central Midfield,19
+Aimar Oroz,Attacking Midfield,10
+Moi Gómez,Left Winger,16
+Rubén García,Left Winger,14
+José Manuel Arnáiz,Left Winger,20
+Kike Barja,Right Winger,11
+Ante Budimir,Centre-Forward,17
+Raúl García,Centre-Forward,23
+Antonio Sivera,Goalkeeper,1
+Jesús Owono,Goalkeeper,31
+Rafa Marín,Centre-Back,16
+Abdel Abqar,Centre-Back,5
+Aleksandar Sedlar,Centre-Back,4
+Javi López,Left-Back,27
+Rubén Duarte,Left-Back,3
+Andoni Gorosabel,Right-Back,2
+Nahuel Tenaglia,Right-Back,14
+Antonio Blanco,Defensive Midfield,8
+Carlos Benavidez,Defensive Midfield,23
+Ander Guevara,Central Midfield,6
+Jon Guridi,Central Midfield,18
+Ianis Hagi,Attacking Midfield,10
+Luis Rioja,Left Winger,11
+Abde Rebbach,Left Winger,21
+Álex Sola,Right Winger,7
+Carlos Vicente,Right Winger,22
+Xeber Alkain,Right Winger,17
+Samu Omorodion,Centre-Forward,32
+Giuliano Simeone,Centre-Forward,20
+Kike García,Centre-Forward,15
+Álvaro Valles,Goalkeeper,13
+Aarón Escandell,Goalkeeper,1
+Mika Mármol,Centre-Back,15
+Saúl Coco,Centre-Back,23
+Alex Suárez,Centre-Back,4
+Juanma Herzog,Centre-Back,31
+Eric Curbelo,Centre-Back,6
+Sergi Cardona,Left-Back,3
+Daley Sinkgraven,Left-Back,18
+Julián Araujo,Right-Back,28
+Álvaro Lemos,Right-Back,14
+Máximo Perrone,Defensive Midfield,8
+Nuke Mfulu,Defensive Midfield,22
+Enzo Loiodice,Central Midfield,12
+Javi Muñoz,Central Midfield,5
+José Campaña,Central Midfield,21
+Fabio González,Central Midfield,25
+Kirian Rodríguez,Attacking Midfield,20
+Alberto Moleiro,Attacking Midfield,10
+Pejiño,Left Winger,24
+Benito Ramírez,Left Winger,11
+Marvin Park,Right Winger,2
+Munir El Haddadi,Right Winger,17
+Sory Kaba,Centre-Forward,16
+Sandro Ramírez,Centre-Forward,9
+Marc Cardona,Centre-Forward,19
+Cristian Herrera,Centre-Forward,7
+David Soria,Goalkeeper,13
+Daniel Fuzato,Goalkeeper,1
+Gastón Álvarez,Centre-Back,4
+Djené,Centre-Back,2
+Domingos Duarte,Centre-Back,6
+Omar Alderete,Centre-Back,15
+Diego Rico,Left-Back,16
+Fabrizio Angileri,Left-Back,3
+José Ángel Carmona,Right-Back,18
+Juan Iglesias,Right-Back,21
+Mauro Arambarri,Central Midfield,8
+Nemanja Maksimovic,Central Midfield,20
+Luis Milla,Central Midfield,5
+Carles Aleñá,Central Midfield,11
+Ilaix Moriba,Central Midfield,24
+Yellu Santiago,Central Midfield,25
+Óscar Rodríguez,Attacking Midfield,9
+Jordi Martín,Left Winger,32
+Mason Greenwood,Right Winger,12
+Borja Mayoral,Centre-Forward,19
+Juanmi Latasa,Centre-Forward,14
+Jaime Mata,Centre-Forward,7
+Augusto Batalla,Goalkeeper,25
+Marc Martínez,Goalkeeper,13
+Raúl Fernández,Goalkeeper,1
+Bruno Méndez,Centre-Back,2
+Kamil Piatkowski,Centre-Back,22
+Raúl Torrente,Centre-Back,28
+Jesús Vallejo,Centre-Back,5
+Ignasi Miquel,Centre-Back,14
+Miguel Rubio,Centre-Back,4
+Faitout Maouassa,Left-Back,3
+Carlos Neva,Left-Back,15
+Ricard Sánchez,Right-Back,12
+Víctor Díaz,Right-Back,16
+Gerard Gumbau,Defensive Midfield,23
+Martin Hongla,Defensive Midfield,6
+Gonzalo Villar,Central Midfield,24
+Sergio Ruiz,Central Midfield,20
+Óscar Melendo,Attacking Midfield,21
+Myrto Uzuni,Left Winger,11
+Kamil Jóźwiak,Left Winger,18
+Facundo Pellistri,Right Winger,19
+Antonio Puertas,Right Winger,10
+Theo Corbeanu,Right Winger,17
+José Callejón,Right Winger,9
+Matías Arezo,Centre-Forward,8
+Lucas Boyé,Centre-Forward,7
+Predrag Rajkovic,Goalkeeper,1
+Dominik Greif,Goalkeeper,13
+Iván Cuéllar,Goalkeeper,25
+Martin Valjent,Centre-Back,24
+Siebe Van der Heyden,Centre-Back,4
+José Copete,Centre-Back,6
+Antonio Raíllo,Centre-Back,21
+Matija Nastasic,Centre-Back,2
+Toni Lato,Left-Back,3
+Jaume Costa,Left-Back,11
+Pablo Maffeo,Right-Back,15
+Giovanni González,Right-Back,20
+Nacho Vidal,Right-Back,22
+Samú Costa,Defensive Midfield,12
+Omar Mascarell,Defensive Midfield,5
+Sergi Darder,Central Midfield,10
+Manu Morlanes,Central Midfield,8
+Antonio Sánchez,Central Midfield,18
+Dani Rodríguez,Attacking Midfield,14
+Nemanja Radonjic,Left Winger,23
+Javi Llabrés,Left Winger,19
+Vedat Muriqi,Centre-Forward,7
+Cyle Larin,Centre-Forward,17
+Abdón Prats,Centre-Forward,9
+Luís Maximiano,Goalkeeper,25
+Fernando Martínez,Goalkeeper,13
+Diego Mariño,Goalkeeper,1
+Edgar González,Centre-Back,3
+César Montes,Centre-Back,22
+Chumi,Centre-Back,21
+Aleksandar Radovanovic,Centre-Back,16
+Bruno Langa,Left-Back,24
+Álex Centelles,Left-Back,20
+Marc Pubill,Right-Back,18
+Alejandro Pozo,Right-Back,17
+Dion Lopy,Defensive Midfield,6
+Lucas Robertone,Central Midfield,5
+Iddrisu Baba,Central Midfield,4
+Gonzalo Melero,Central Midfield,11
+Sergio Arribas,Attacking Midfield,19
+Jonathan Viera,Attacking Midfield,8
+Largie Ramazani,Left Winger,7
+Luka Romero,Right Winger,38
+Adrián Embarba,Right Winger,10
+Luis Suárez,Centre-Forward,9
+Ibrahima Koné,Centre-Forward,23
+Léo Baptistão,Centre-Forward,12
+Choco Lozano,Centre-Forward,15
+Marko Milovanovic,Centre-Forward,29
+Stole Dimitrievski,Goalkeeper,1
+Dani Cárdenas,Goalkeeper,13
+Florian Lejeune,Centre-Back,24
+Abdul Mumin,Centre-Back,16
+Aridane Hernández,Centre-Back,5
+Martín Pascual,Centre-Back,4
+Alfonso Espino,Left-Back,12
+Pep Chavarría,Left-Back,3
+Iván Balliu,Right-Back,20
+Andrei Rațiu,Right-Back,2
+Miguel Crespo,Central Midfield,15
+Óscar Valentín,Central Midfield,23
+Unai López,Central Midfield,17
+Kike Pérez,Central Midfield,14
+Pathé Ciss,Central Midfield,21
+Óscar Trejo,Attacking Midfield,8
+Randy Nteka,Attacking Midfield,11
+José Pozo,Attacking Midfield,6
+Álvaro García,Left Winger,18
+Bebé,Left Winger,10
+Isi Palazón,Right Winger,7
+Jorge de Frutos,Right Winger,19
+Raúl de Tomás,Centre-Forward,22
+Sergio Camello,Centre-Forward,34
+Radamel Falcao,Centre-Forward,9
+Conan Ledesma,Goalkeeper,1
+David Gil,Goalkeeper,13
+Fali,Centre-Back,3
+Aiham Ousou,Centre-Back,24
+Víctor Chust,Centre-Back,5
+Jorge Meré,Centre-Back,22
+Luis Hernández,Centre-Back,-
+Momo Mbaye,Centre-Back,14
+Javi Hernández,Left-Back,15
+Lucas Pires,Left-Back,33
+Iza Carcelén,Right-Back,20
+Joseba Zaldua,Right-Back,2
+Diadié Samassékou,Defensive Midfield,6
+José Mari,Defensive Midfield,-
+Rominigue Kouamé,Central Midfield,12
+Rubén Alcaraz,Central Midfield,4
+Gonzalo Escalante,Central Midfield,17
+Fede San Emeterio,Central Midfield,24
+Robert Navarro,Attacking Midfield,27
+Álex Fernández,Attacking Midfield,8
+Juanmi,Left Winger,9
+Darwin Machís,Left Winger,18
+Brian Ocampo,Left Winger,10
+Iván Alejo,Right Winger,11
+Chris Ramos,Centre-Forward,16
+Maxi Gómez,Centre-Forward,25
+Rubén Sobrino,Centre-Forward,7
+Roger Martí,Centre-Forward,21
+Sergi Guardiola,Centre-Forward,19

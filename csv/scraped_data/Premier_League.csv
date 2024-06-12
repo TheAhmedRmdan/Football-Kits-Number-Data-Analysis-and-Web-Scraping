@@ -1,0 +1,534 @@
+name,position,shirt_no
+Ederson,Goalkeeper,31
+Stefan Ortega,Goalkeeper,18
+Scott Carson,Goalkeeper,33
+Rúben Dias,Centre-Back,3
+Josko Gvardiol,Centre-Back,24
+Manuel Akanji,Centre-Back,25
+Nathan Aké,Centre-Back,6
+John Stones,Centre-Back,5
+Sergio Gómez,Left-Back,21
+Rico Lewis,Right-Back,82
+Kyle Walker,Right-Back,2
+Rodri,Defensive Midfield,16
+Matheus Nunes,Central Midfield,27
+Mateo Kovacic,Central Midfield,8
+Bernardo Silva,Attacking Midfield,20
+Kevin De Bruyne,Attacking Midfield,17
+Jack Grealish,Left Winger,10
+Jérémy Doku,Left Winger,11
+Phil Foden,Right Winger,47
+Oscar Bobb,Right Winger,52
+Julián Álvarez,Second Striker,19
+Erling Haaland,Centre-Forward,9
+David Raya,Goalkeeper,22
+Aaron Ramsdale,Goalkeeper,1
+Karl Hein,Goalkeeper,31
+William Saliba,Centre-Back,2
+Gabriel Magalhães,Centre-Back,6
+Jurrien Timber,Centre-Back,12
+Oleksandr Zinchenko,Left-Back,35
+Jakub Kiwior,Left-Back,15
+Ben White,Right-Back,4
+Takehiro Tomiyasu,Right-Back,18
+Cédric Soares,Right-Back,17
+Declan Rice,Defensive Midfield,41
+Thomas Partey,Defensive Midfield,5
+Jorginho,Defensive Midfield,20
+Mohamed Elneny,Defensive Midfield,25
+Martin Ødegaard,Attacking Midfield,8
+Kai Havertz,Attacking Midfield,29
+Emile Smith Rowe,Attacking Midfield,10
+Fábio Vieira,Attacking Midfield,21
+Gabriel Martinelli,Left Winger,11
+Leandro Trossard,Left Winger,19
+Bukayo Saka,Right Winger,7
+Reiss Nelson,Right Winger,24
+Gabriel Jesus,Centre-Forward,9
+Eddie Nketiah,Centre-Forward,14
+Robert Sánchez,Goalkeeper,1
+Djordje Petrovic,Goalkeeper,28
+Marcus Bettinelli,Goalkeeper,13
+Levi Colwill,Centre-Back,26
+Axel Disasi,Centre-Back,2
+Benoît Badiashile,Centre-Back,5
+Wesley Fofana,Centre-Back,33
+Trevoh Chalobah,Centre-Back,14
+Malang Sarr,Centre-Back,-
+Thiago Silva,Centre-Back,6
+Alfie Gilchrist,Centre-Back,42
+Ben Chilwell,Left-Back,21
+Marc Cucurella,Left-Back,3
+Reece James,Right-Back,24
+Malo Gusto,Right-Back,27
+Moisés Caicedo,Defensive Midfield,25
+Roméo Lavia,Defensive Midfield,45
+Lesley Ugochukwu,Defensive Midfield,16
+Enzo Fernández,Central Midfield,8
+Conor Gallagher,Central Midfield,23
+Carney Chukwuemeka,Central Midfield,17
+Cesare Casadei,Central Midfield,31
+Christopher Nkunku,Attacking Midfield,18
+Cole Palmer,Attacking Midfield,20
+Raheem Sterling,Left Winger,7
+Mykhaylo Mudryk,Left Winger,10
+Diego Moreira,Left Winger,43
+Noni Madueke,Right Winger,11
+Nicolas Jackson,Centre-Forward,15
+Deivid Washington,Centre-Forward,36
+Alisson,Goalkeeper,1
+Caoimhín Kelleher,Goalkeeper,62
+Adrián,Goalkeeper,13
+Ibrahima Konaté,Centre-Back,5
+Virgil van Dijk,Centre-Back,4
+Joe Gomez,Centre-Back,2
+Jarell Quansah,Centre-Back,78
+Joel Matip,Centre-Back,32
+Rhys Williams,Centre-Back,46
+Andrew Robertson,Left-Back,26
+Konstantinos Tsimikas,Left-Back,21
+Trent Alexander-Arnold,Right-Back,66
+Conor Bradley,Right-Back,84
+Wataru Endo,Defensive Midfield,3
+Stefan Bajcetic,Defensive Midfield,43
+Dominik Szoboszlai,Central Midfield,8
+Alexis Mac Allister,Central Midfield,10
+Curtis Jones,Central Midfield,17
+Ryan Gravenberch,Central Midfield,38
+Thiago,Central Midfield,6
+Bobby Clark,Central Midfield,42
+Harvey Elliott,Attacking Midfield,19
+Luis Díaz,Left Winger,7
+Cody Gakpo,Left Winger,18
+Diogo Jota,Left Winger,20
+Mohamed Salah,Right Winger,11
+Ben Doak,Right Winger,50
+Darwin Núñez,Centre-Forward,9
+Guglielmo Vicario,Goalkeeper,13
+Fraser Forster,Goalkeeper,20
+Brandon Austin,Goalkeeper,40
+Alfie Whiteman,Goalkeeper,41
+Cristian Romero,Centre-Back,17
+Micky van de Ven,Centre-Back,37
+Radu Drăgușin,Centre-Back,6
+Destiny Udogie,Left-Back,38
+Ben Davies,Left-Back,33
+Pedro Porro,Right-Back,23
+Emerson Royal,Right-Back,12
+Pierre-Emile Højbjerg,Defensive Midfield,5
+Oliver Skipp,Defensive Midfield,4
+Pape Matar Sarr,Central Midfield,29
+Yves Bissouma,Central Midfield,8
+Rodrigo Bentancur,Central Midfield,30
+Ryan Sessegnon,Left Midfield,19
+James Maddison,Attacking Midfield,10
+Giovani Lo Celso,Attacking Midfield,18
+Heung-min Son,Left Winger,7
+Manor Solomon,Left Winger,27
+Dejan Kulusevski,Right Winger,21
+Brennan Johnson,Right Winger,22
+Bryan Gil,Right Winger,11
+Richarlison,Centre-Forward,9
+Timo Werner,Centre-Forward,16
+André Onana,Goalkeeper,24
+Altay Bayındır,Goalkeeper,1
+Tom Heaton,Goalkeeper,22
+Lisandro Martínez,Centre-Back,6
+Raphaël Varane,Centre-Back,19
+Harry Maguire,Centre-Back,5
+Victor Lindelöf,Centre-Back,2
+Willy Kambwala,Centre-Back,53
+Jonny Evans,Centre-Back,35
+Luke Shaw,Left-Back,23
+Tyrell Malacia,Left-Back,12
+Diogo Dalot,Right-Back,20
+Aaron Wan-Bissaka,Right-Back,29
+Scott McTominay,Defensive Midfield,39
+Casemiro,Defensive Midfield,18
+Sofyan Amrabat,Defensive Midfield,4
+Kobbie Mainoo,Central Midfield,37
+Christian Eriksen,Central Midfield,14
+Bruno Fernandes,Attacking Midfield,8
+Mason Mount,Attacking Midfield,7
+Shola Shoretire,Attacking Midfield,47
+Marcus Rashford,Left Winger,10
+Alejandro Garnacho,Left Winger,17
+Antony,Right Winger,21
+Amad Diallo,Right Winger,16
+Rasmus Højlund,Centre-Forward,11
+Anthony Martial,Centre-Forward,9
+Emiliano Martínez,Goalkeeper,1
+Joe Gauci,Goalkeeper,18
+Robin Olsen,Goalkeeper,25
+Pau Torres,Centre-Back,14
+Ezri Konsa,Centre-Back,4
+Diego Carlos,Centre-Back,3
+Tyrone Mings,Centre-Back,5
+Clément Lenglet,Centre-Back,17
+Calum Chambers,Centre-Back,16
+Kortney Hause,Centre-Back,30
+Álex Moreno,Left-Back,15
+Lucas Digne,Left-Back,12
+Matty Cash,Right-Back,2
+Kaine Kesler-Hayden,Right-Back,29
+Boubacar Kamara,Defensive Midfield,44
+Douglas Luiz,Central Midfield,6
+John McGinn,Central Midfield,7
+Youri Tielemans,Central Midfield,8
+Tim Iroegbunam,Central Midfield,47
+Jacob Ramsey,Attacking Midfield,41
+Nicolò Zaniolo,Attacking Midfield,22
+Leon Bailey,Left Winger,31
+Morgan Rogers,Left Winger,27
+Moussa Diaby,Right Winger,19
+Emiliano Buendía,Right Winger,10
+Ollie Watkins,Centre-Forward,11
+Jhon Durán,Centre-Forward,24
+Nick Pope,Goalkeeper,22
+Martin Dúbravka,Goalkeeper,1
+Loris Karius,Goalkeeper,18
+Mark Gillespie,Goalkeeper,29
+Sven Botman,Centre-Back,4
+Fabian Schär,Centre-Back,5
+Jamaal Lascelles,Centre-Back,6
+Paul Dummett,Centre-Back,3
+Lewis Hall,Left-Back,20
+Matt Targett,Left-Back,13
+Dan Burn,Left-Back,33
+Tino Livramento,Right-Back,21
+Kieran Trippier,Right-Back,2
+Emil Krafth,Right-Back,17
+Bruno Guimarães,Defensive Midfield,39
+Sandro Tonali,Defensive Midfield,8
+Joelinton,Central Midfield,7
+Joe Willock,Central Midfield,28
+Sean Longstaff,Central Midfield,36
+Lewis Miley,Central Midfield,67
+Elliot Anderson,Central Midfield,32
+Matt Ritchie,Right Midfield,11
+Anthony Gordon,Left Winger,10
+Harvey Barnes,Left Winger,15
+Miguel Almirón,Right Winger,24
+Jacob Murphy,Right Winger,23
+Alexander Isak,Centre-Forward,14
+Callum Wilson,Centre-Forward,9
+Bart Verbruggen,Goalkeeper,1
+Jason Steele,Goalkeeper,23
+Tom McGill,Goalkeeper,38
+Adam Webster,Centre-Back,4
+Igor,Centre-Back,3
+Jan Paul van Hecke,Centre-Back,29
+Lewis Dunk,Centre-Back,5
+Pervis Estupiñán,Left-Back,30
+Valentín Barco,Left-Back,19
+Tariq Lamptey,Right-Back,2
+Joël Veltman,Right-Back,34
+Carlos Baleba,Defensive Midfield,20
+Billy Gilmour,Defensive Midfield,11
+Jack Hinshelwood,Defensive Midfield,41
+Jakub Moder,Central Midfield,15
+Pascal Groß,Central Midfield,13
+James Milner,Central Midfield,6
+Julio Enciso,Attacking Midfield,10
+Facundo Buonanotte,Attacking Midfield,40
+Adam Lallana,Attacking Midfield,14
+Kaoru Mitoma,Left Winger,22
+Simon Adingra,Left Winger,24
+Ansu Fati,Left Winger,31
+Solly March,Right Winger,7
+Evan Ferguson,Centre-Forward,28
+João Pedro,Centre-Forward,9
+Danny Welbeck,Centre-Forward,18
+Alphonse Areola,Goalkeeper,23
+Lukasz Fabianski,Goalkeeper,1
+Joseph Anang,Goalkeeper,49
+Nayef Aguerd,Centre-Back,27
+Kurt Zouma,Centre-Back,4
+Konstantinos Mavropanos,Centre-Back,15
+Angelo Ogbonna,Centre-Back,21
+Emerson Palmieri,Left-Back,33
+Aaron Cresswell,Left-Back,3
+Vladimir Coufal,Right-Back,5
+Ben Johnson,Right-Back,2
+Edson Álvarez,Defensive Midfield,19
+Tomas Soucek,Defensive Midfield,28
+Kalvin Phillips,Defensive Midfield,11
+James Ward-Prowse,Central Midfield,7
+Lucas Paquetá,Attacking Midfield,10
+Mohammed Kudus,Attacking Midfield,14
+Maxwel Cornet,Left Winger,17
+Jarrod Bowen,Right Winger,20
+Danny Ings,Centre-Forward,18
+Michail Antonio,Centre-Forward,9
+Divin Mubama,Centre-Forward,45
+Mark Flekken,Goalkeeper,1
+Thomas Strakosha,Goalkeeper,21
+Hákon Rafn Valdimarsson,Goalkeeper,-
+Ellery Balcombe,Goalkeeper,40
+Nathan Collins,Centre-Back,22
+Ethan Pinnock,Centre-Back,5
+Kristoffer Ajer,Centre-Back,20
+Zanka,Centre-Back,13
+Ben Mee,Centre-Back,16
+Rico Henry,Left-Back,3
+Sergio Reguilón,Left-Back,12
+Aaron Hickey,Right-Back,2
+Mads Roerslev,Right-Back,30
+Vitaly Janelt,Defensive Midfield,27
+Christian Nørgaard,Defensive Midfield,6
+Yunus Emre Konak,Defensive Midfield,-
+Mathias Jensen,Central Midfield,8
+Josh Dasilva,Central Midfield,10
+Frank Onyeka,Central Midfield,15
+Shandon Baptiste,Central Midfield,26
+Ryan Trevitt,Central Midfield,-
+Yegor Yarmolyuk,Attacking Midfield,33
+Saman Ghoddos,Attacking Midfield,14
+Yoane Wissa,Left Winger,11
+Keane Lewis-Potter,Left Winger,23
+Mikkel Damsgaard,Left Winger,24
+Bryan Mbeumo,Right Winger,19
+Kevin Schade,Right Winger,9
+Ivan Toney,Centre-Forward,17
+Neal Maupay,Centre-Forward,7
+Sam Johnstone,Goalkeeper,1
+Dean Henderson,Goalkeeper,30
+Joe Whitworth,Goalkeeper,41
+Remi Matthews,Goalkeeper,31
+Marc Guéhi,Centre-Back,6
+Joachim Andersen,Centre-Back,16
+Chris Richards,Centre-Back,26
+Rob Holding,Centre-Back,4
+Nathan Ferguson,Centre-Back,36
+James Tomkins,Centre-Back,5
+Tyrick Mitchell,Left-Back,3
+Daniel Muñoz,Right-Back,12
+Nathaniel Clyne,Right-Back,17
+Joel Ward,Right-Back,2
+Cheick Doucouré,Defensive Midfield,28
+Jefferson Lerma,Defensive Midfield,8
+Jairo Riedewald,Defensive Midfield,44
+Adam Wharton,Central Midfield,20
+Will Hughes,Central Midfield,19
+Naouirou Ahamada,Central Midfield,29
+Jeffrey Schlupp,Left Midfield,15
+Eberechi Eze,Attacking Midfield,10
+Matheus França,Attacking Midfield,11
+Michael Olise,Right Winger,7
+Jesurun Rak-Sakyi,Right Winger,49
+Odsonne Edouard,Centre-Forward,22
+Jean-Philippe Mateta,Centre-Forward,14
+Jordan Ayew,Centre-Forward,9
+Matt Turner,Goalkeeper,1
+Odysseas Vlachodimos,Goalkeeper,23
+Matz Sels,Goalkeeper,26
+Wayne Hennessey,Goalkeeper,13
+Murillo,Centre-Back,40
+Moussa Niakhaté,Centre-Back,19
+Andrew Omobamidele,Centre-Back,32
+Willy Boly,Centre-Back,30
+Felipe,Centre-Back,18
+Nuno Tavares,Left-Back,3
+Harry Toffolo,Left-Back,15
+Neco Williams,Right-Back,7
+Gonzalo Montiel,Right-Back,29
+Ola Aina,Right-Back,43
+Ibrahim Sangaré,Defensive Midfield,6
+Cheikhou Kouyaté,Defensive Midfield,8
+Danilo,Central Midfield,28
+Nicolás Domínguez,Central Midfield,16
+Ryan Yates,Central Midfield,22
+Harry Arter,Central Midfield,-
+Morgan Gibbs-White,Attacking Midfield,10
+Giovanni Reyna,Attacking Midfield,20
+Anthony Elanga,Left Winger,21
+Callum Hudson-Odoi,Left Winger,14
+Taiwo Awoniyi,Centre-Forward,9
+Chris Wood,Centre-Forward,11
+Divock Origi,Centre-Forward,27
+Rodrigo Ribeiro,Centre-Forward,37
+Mark Travers,Goalkeeper,42
+Andrei Radu,Goalkeeper,20
+Neto,Goalkeeper,1
+Darren Randolph,Goalkeeper,12
+Ilya Zabarnyi,Centre-Back,27
+Marcos Senesi,Centre-Back,25
+Lloyd Kelly,Centre-Back,5
+Chris Mepham,Centre-Back,6
+James Hill,Centre-Back,23
+Milos Kerkez,Left-Back,3
+Max Aarons,Right-Back,37
+Ryan Fredericks,Right-Back,2
+Adam Smith,Right-Back,15
+Tyler Adams,Defensive Midfield,18
+Philip Billing,Central Midfield,29
+Alex Scott,Central Midfield,14
+Lewis Cook,Central Midfield,4
+Romain Faivre,Right Midfield,8
+Ryan Christie,Attacking Midfield,10
+Marcus Tavernier,Left Winger,16
+Luis Sinisterra,Left Winger,17
+Justin Kluivert,Left Winger,19
+Dango Ouattara,Right Winger,11
+Antoine Semenyo,Right Winger,24
+Dominic Solanke,Centre-Forward,9
+Enes Ünal,Centre-Forward,26
+Jordan Pickford,Goalkeeper,1
+João Virgínia,Goalkeeper,12
+Andy Lonergan,Goalkeeper,31
+Jarrad Branthwaite,Centre-Back,32
+James Tarkowski,Centre-Back,6
+Ben Godfrey,Centre-Back,22
+Michael Keane,Centre-Back,5
+Vitaliy Mykolenko,Left-Back,19
+Ashley Young,Left-Back,18
+Nathan Patterson,Right-Back,2
+Seamus Coleman,Right-Back,23
+Amadou Onana,Defensive Midfield,8
+James Garner,Defensive Midfield,37
+Abdoulaye Doucouré,Central Midfield,16
+André Gomes,Central Midfield,21
+Idrissa Gueye,Central Midfield,27
+Tyler Onyango,Central Midfield,62
+Dele Alli,Attacking Midfield,20
+Dwight McNeil,Left Winger,7
+Arnaut Danjuma,Left Winger,10
+Lewis Dobbin,Left Winger,61
+Jack Harrison,Right Winger,11
+Dominic Calvert-Lewin,Centre-Forward,9
+Beto,Centre-Forward,14
+Chermiti,Centre-Forward,28
+José Sá,Goalkeeper,1
+Daniel Bentley,Goalkeeper,25
+Tom King,Goalkeeper,40
+Max Kilman,Centre-Back,23
+Toti,Centre-Back,24
+Santiago Bueno,Centre-Back,4
+Craig Dawson,Centre-Back,15
+Rayan Aït-Nouri,Left-Back,3
+Hugo Bueno,Left-Back,17
+Nélson Semedo,Right-Back,22
+Matt Doherty,Right-Back,2
+Mario Lemina,Defensive Midfield,5
+Boubacar Traoré,Defensive Midfield,6
+João Gomes,Central Midfield,8
+Jean-Ricner Bellegarde,Central Midfield,27
+Tommy Doyle,Central Midfield,20
+Noha Lemina,Attacking Midfield,14
+Enso González,Left Winger,30
+Pedro Neto,Right Winger,7
+Pablo Sarabia,Right Winger,21
+Matheus Cunha,Centre-Forward,12
+Hee-chan Hwang,Centre-Forward,11
+Nathan Fraser,Centre-Forward,-
+Leon Chiwome,Centre-Forward,84
+Bernd Leno,Goalkeeper,17
+Marek Rodák,Goalkeeper,1
+Steven Benda,Goalkeeper,23
+Issa Diop,Centre-Back,31
+Calvin Bassey,Centre-Back,3
+Tosin Adarabioyo,Centre-Back,4
+Tim Ream,Centre-Back,13
+Antonee Robinson,Left-Back,33
+Fodé Ballo-Touré,Left-Back,12
+Timothy Castagne,Right-Back,21
+Kenny Tete,Right-Back,2
+João Palhinha,Defensive Midfield,26
+Harrison Reed,Central Midfield,6
+Saša Lukić,Central Midfield,28
+Tom Cairney,Central Midfield,10
+Alex Iwobi,Attacking Midfield,22
+Andreas Pereira,Attacking Midfield,18
+Bobby De Cordova-Reid,Attacking Midfield,14
+Willian,Left Winger,20
+Harry Wilson,Right Winger,8
+Adama Traoré,Right Winger,11
+Armando Broja,Centre-Forward,9
+Rodrigo Muniz,Centre-Forward,19
+Raúl Jiménez,Centre-Forward,7
+James Trafford,Goalkeeper,1
+Arijanet Muric,Goalkeeper,49
+Lawrence Vigouroux,Goalkeeper,29
+Jordan Beyer,Centre-Back,5
+Ameen Al-Dakhil,Centre-Back,28
+Dara O'Shea,Centre-Back,2
+Hjalmar Ekdal,Centre-Back,18
+Maxime Estève,Centre-Back,33
+Hannes Delcroix,Centre-Back,44
+Charlie Taylor,Left-Back,3
+Lorenz Assignon,Right-Back,20
+Vitinho,Right-Back,22
+Sander Berge,Defensive Midfield,16
+Han-Noah Massengo,Defensive Midfield,42
+Jack Cork,Defensive Midfield,4
+Josh Brownhill,Central Midfield,8
+Josh Cullen,Central Midfield,24
+Aaron Ramsey,Attacking Midfield,21
+Mike Trésor,Left Winger,31
+Wilson Odobert,Left Winger,47
+Luca Koleosho,Left Winger,30
+Jacob Bruun Larsen,Left Winger,34
+Nathan Redmond,Right Winger,15
+Benson Manuel,Right Winger,10
+Jóhann Berg Gudmundsson,Right Winger,7
+Zeki Amdouni,Centre-Forward,25
+Lyle Foster,Centre-Forward,17
+David Datro Fofana,Centre-Forward,23
+Jay Rodríguez,Centre-Forward,9
+Ivo Grbic,Goalkeeper,13
+Wes Foderingham,Goalkeeper,18
+Adam Davies,Goalkeeper,1
+Jordan Amissah,Goalkeeper,37
+Anel Ahmedhodzic,Centre-Back,15
+Auston Trusty,Centre-Back,5
+John Egan,Centre-Back,12
+Mason Holgate,Centre-Back,30
+Jack Robinson,Centre-Back,19
+Chris Basham,Centre-Back,6
+Yasser Larouci,Left-Back,27
+Max Lowe,Left-Back,3
+Rhys Norrington-Davies,Left-Back,33
+Jayden Bogle,Right-Back,20
+George Baldock,Right-Back,2
+Vini Souza,Defensive Midfield,21
+Gustavo Hamer,Central Midfield,8
+James McAtee,Central Midfield,28
+Tom Davies,Central Midfield,22
+Anis Slimane,Central Midfield,25
+Andre Brooks,Central Midfield,35
+Oliver Norwood,Central Midfield,16
+Ben Osborn,Central Midfield,23
+Ben Brereton Díaz,Left Winger,11
+Cameron Archer,Centre-Forward,10
+Oli McBurnie,Centre-Forward,9
+Rhian Brewster,Centre-Forward,7
+William Osula,Centre-Forward,32
+Daniel Jebbison,Centre-Forward,36
+Thomas Kaminski,Goalkeeper,24
+Tim Krul,Goalkeeper,23
+James Shea,Goalkeeper,1
+Teden Mengi,Centre-Back,15
+Tom Lockyer,Centre-Back,4
+Gabriel Osho,Centre-Back,2
+Mads Andersen,Centre-Back,5
+Reece Burke,Centre-Back,16
+Amari'i Bell,Left-Back,29
+Dan Potts,Left-Back,3
+Issa Kaboré,Right-Back,12
+Daiki Hashioka,Right-Back,27
+Marvelous Nakamba,Defensive Midfield,13
+Pelly Ruddock Mpanzu,Defensive Midfield,17
+Albert Sambi Lokonga,Central Midfield,28
+Ross Barkley,Central Midfield,6
+Jordan Clark,Central Midfield,18
+Luke Berry,Central Midfield,8
+Elliot Thorpe,Central Midfield,28
+Alfie Doughty,Left Midfield,45
+Fred Onyedinma,Attacking Midfield,23
+Chiedozie Ogbene,Right Winger,7
+Tahith Chong,Right Winger,14
+Andros Townsend,Right Winger,30
+Carlton Morris,Centre-Forward,9
+Elijah Adebayo,Centre-Forward,11
+Jacob Brown,Centre-Forward,19
+Cauley Woodrow,Centre-Forward,10

@@ -1,0 +1,550 @@
+name,position,shirt_no
+Emil Audero,Goalkeeper,77
+Yann Sommer,Goalkeeper,1
+Raffaele Di Gennaro,Goalkeeper,12
+Alessandro Bastoni,Centre-Back,95
+Benjamin Pavard,Centre-Back,28
+Yann Bisseck,Centre-Back,31
+Stefan de Vrij,Centre-Back,6
+Francesco Acerbi,Centre-Back,15
+Federico Dimarco,Left-Back,32
+Matteo Darmian,Right-Back,36
+Hakan Çalhanoğlu,Defensive Midfield,20
+Kristjan Asllani,Defensive Midfield,21
+Nicolò Barella,Central Midfield,23
+Davide Frattesi,Central Midfield,16
+Henrikh Mkhitaryan,Central Midfield,22
+Davy Klaassen,Central Midfield,14
+Stefano Sensi,Central Midfield,5
+Denzel Dumfries,Right Midfield,2
+Tajon Buchanan,Right Midfield,17
+Juan Cuadrado,Right Midfield,7
+Carlos Augusto,Left Midfield,30
+Lautaro Martínez,Centre-Forward,10
+Marcus Thuram,Centre-Forward,9
+Marko Arnautovic,Centre-Forward,8
+Alexis Sánchez,Centre-Forward,70
+Mike Maignan,Goalkeeper,16
+Marco Sportiello,Goalkeeper,57
+Lapo Nava,Goalkeeper,69
+Antonio Mirante,Goalkeeper,83
+Fikayo Tomori,Centre-Back,23
+Malick Thiaw,Centre-Back,28
+Pierre Kalulu,Centre-Back,20
+Matteo Gabbia,Centre-Back,46
+Simon Kjaer,Centre-Back,24
+Mattia Caldara,Centre-Back,30
+Theo Hernández,Left-Back,19
+Davide Calabria,Right-Back,2
+Filippo Terracciano,Right-Back,38
+Alessandro Florenzi,Right-Back,42
+Ismaël Bennacer,Defensive Midfield,4
+Yacine Adli,Defensive Midfield,7
+Ruben Loftus-Cheek,Central Midfield,8
+Tijjani Reijnders,Central Midfield,14
+Yunus Musah,Central Midfield,80
+Tommaso Pobega,Central Midfield,32
+Rafael Leão,Left Winger,10
+Christian Pulisic,Right Winger,11
+Samuel Chukwueze,Right Winger,21
+Noah Okafor,Centre-Forward,17
+Luka Jović,Centre-Forward,15
+Olivier Giroud,Centre-Forward,9
+Alex Meret,Goalkeeper,1
+Pierluigi Gollini,Goalkeeper,95
+Nikita Contini,Goalkeeper,14
+Hubert Idasiak,Goalkeeper,16
+Amir Rrahmani,Centre-Back,13
+Natan,Centre-Back,3
+Leo Østigård,Centre-Back,55
+Juan Jesus,Centre-Back,5
+Mathías Olivera,Left-Back,17
+Mário Rui,Left-Back,6
+Giovanni Di Lorenzo,Right-Back,22
+Pasquale Mazzocchi,Right-Back,30
+Stanislav Lobotka,Defensive Midfield,68
+Leander Dendoncker,Defensive Midfield,32
+Diego Demme,Defensive Midfield,4
+Frank Anguissa,Central Midfield,99
+Piotr Zieliński,Central Midfield,20
+Jens Cajuste,Central Midfield,24
+Jesper Lindstrøm,Attacking Midfield,29
+Hamed Junior Traorè,Attacking Midfield,8
+Khvicha Kvaratskhelia,Left Winger,77
+Matteo Politano,Right Winger,21
+Cyril Ngonge,Right Winger,26
+Giacomo Raspadori,Second Striker,81
+Victor Osimhen,Centre-Forward,9
+Giovanni Simeone,Centre-Forward,18
+Wojciech Szczęsny,Goalkeeper,1
+Mattia Perin,Goalkeeper,36
+Carlo Pinsoglio,Goalkeeper,23
+Bremer,Centre-Back,3
+Federico Gatti,Centre-Back,4
+Tiago Djaló,Centre-Back,33
+Danilo,Centre-Back,6
+Daniele Rugani,Centre-Back,24
+Andrea Cambiaso,Left-Back,27
+Alex Sandro,Left-Back,12
+Mattia De Sciglio,Right-Back,2
+Manuel Locatelli,Defensive Midfield,5
+Adrien Rabiot,Central Midfield,25
+Weston McKennie,Central Midfield,16
+Fabio Miretti,Central Midfield,20
+Nicolò Fagioli,Central Midfield,21
+Carlos Alcaraz,Central Midfield,26
+Hans Nicolussi Caviglia,Central Midfield,41
+Paul Pogba,Central Midfield,10
+Timothy Weah,Right Midfield,22
+Filip Kostić,Left Midfield,11
+Federico Chiesa,Left Winger,7
+Samuel Iling-Junior,Left Winger,17
+Kenan Yıldız,Second Striker,15
+Dušan Vlahović,Centre-Forward,9
+Moise Kean,Centre-Forward,18
+Arkadiusz Milik,Centre-Forward,14
+Marco Carnesecchi,Goalkeeper,29
+Juan Musso,Goalkeeper,1
+Francesco Rossi,Goalkeeper,31
+Giorgio Scalvini,Centre-Back,42
+Berat Djimsiti,Centre-Back,19
+Isak Hien,Centre-Back,4
+Sead Kolasinac,Centre-Back,23
+Rafael Tolói,Centre-Back,2
+José Luis Palomino,Centre-Back,6
+Giovanni Bonfanti,Centre-Back,43
+Marten de Roon,Defensive Midfield,15
+Éderson,Central Midfield,13
+Mario Pasalic,Central Midfield,8
+Michel Adopo,Central Midfield,25
+Emil Holm,Right Midfield,3
+Davide Zappacosta,Right Midfield,77
+Hans Hateboer,Right Midfield,33
+Matteo Ruggeri,Left Midfield,22
+Mitchel Bakker,Left Midfield,20
+Teun Koopmeiners,Attacking Midfield,7
+Charles De Ketelaere,Attacking Midfield,17
+Aleksey Miranchuk,Attacking Midfield,59
+Ademola Lookman,Second Striker,11
+Gianluca Scamacca,Centre-Forward,90
+El Bilal Touré,Centre-Forward,10
+Mile Svilar,Goalkeeper,99
+Rui Patrício,Goalkeeper,1
+Pietro Boer,Goalkeeper,63
+Evan Ndicka,Centre-Back,5
+Gianluca Mancini,Centre-Back,23
+Dean Huijsen,Centre-Back,3
+Diego Llorente,Centre-Back,14
+Chris Smalling,Centre-Back,6
+Angeliño,Left-Back,69
+Leonardo Spinazzola,Left-Back,37
+Rasmus Kristensen,Right-Back,43
+Rick Karsdorp,Right-Back,2
+Zeki Çelik,Right-Back,19
+Bryan Cristante,Defensive Midfield,4
+Leandro Paredes,Defensive Midfield,16
+Edoardo Bove,Central Midfield,52
+Houssem Aouar,Central Midfield,22
+Renato Sanches,Central Midfield,20
+Nicola Zalewski,Left Midfield,59
+Lorenzo Pellegrini,Attacking Midfield,7
+Tommaso Baldanzi,Attacking Midfield,35
+Stephan El Shaarawy,Left Winger,92
+Paulo Dybala,Second Striker,21
+Tammy Abraham,Centre-Forward,9
+Romelu Lukaku,Centre-Forward,90
+Sardar Azmoun,Centre-Forward,17
+Lukasz Skorupski,Goalkeeper,28
+Federico Ravaglia,Goalkeeper,34
+Nicola Bagnolini,Goalkeeper,23
+Riccardo Calafiori,Centre-Back,33
+Sam Beukema,Centre-Back,31
+Jhon Lucumí,Centre-Back,26
+Mihajlo Ilić,Centre-Back,4
+Adama Soumaoro,Centre-Back,5
+Victor Kristiansen,Left-Back,15
+Tommaso Corazza,Left-Back,16
+Charalampos Lykogiannis,Left-Back,22
+Stefan Posch,Right-Back,3
+Lorenzo De Silvestri,Right-Back,29
+Nikola Moro,Defensive Midfield,6
+Oussama El Azzouzi,Defensive Midfield,17
+Giovanni Fabbian,Central Midfield,80
+Remo Freuler,Central Midfield,8
+Michel Aebischer,Central Midfield,20
+Kacper Urbanski,Central Midfield,82
+Lewis Ferguson,Attacking Midfield,19
+Jesper Karlsson,Left Winger,10
+Riccardo Orsolini,Right Winger,7
+Dan Ndoye,Right Winger,11
+Alexis Saelemaekers,Right Winger,56
+Jens Odgaard,Right Winger,21
+Joshua Zirkzee,Centre-Forward,9
+Santiago Castro,Centre-Forward,18
+Oliver Christensen,Goalkeeper,53
+Pietro Terracciano,Goalkeeper,1
+Tommaso Martinelli,Goalkeeper,30
+Tommaso Vannucchi,Goalkeeper,40
+Nikola Milenković,Centre-Back,4
+Lucas Martínez Quarta,Centre-Back,28
+Luca Ranieri,Centre-Back,16
+Pietro Comuzzo,Centre-Back,37
+Fabiano Parisi,Left-Back,65
+Cristiano Biraghi,Left-Back,3
+Dodô,Right-Back,2
+Michael Kayode,Right-Back,33
+Davide Faraoni,Right-Back,22
+Arthur Melo,Defensive Midfield,6
+Maxime López,Defensive Midfield,8
+Rolando Mandragora,Defensive Midfield,38
+Gaetano Castrovilli,Central Midfield,17
+Alfred Duncan,Central Midfield,32
+Giacomo Bonaventura,Central Midfield,5
+Gino Infantino,Central Midfield,19
+Antonín Barák,Attacking Midfield,72
+Christian Kouamé,Left Winger,99
+Riccardo Sottil,Left Winger,7
+Nicolás González,Right Winger,10
+Jonathan Ikoné,Right Winger,11
+Lucas Beltrán,Centre-Forward,9
+M'Bala Nzola,Centre-Forward,18
+Andrea Belotti,Centre-Forward,20
+Ivan Provedel,Goalkeeper,94
+Christos Mandas,Goalkeeper,35
+Luigi Sepe,Goalkeeper,33
+Alessio Romagnoli,Centre-Back,13
+Nicolò Casale,Centre-Back,15
+Mario Gila,Centre-Back,34
+Patric,Centre-Back,4
+Luca Pellegrini,Left-Back,3
+Adam Marusic,Right-Back,77
+Elseid Hysaj,Right-Back,23
+Nicolò Rovella,Defensive Midfield,65
+Danilo Cataldi,Defensive Midfield,32
+Mattéo Guendouzi,Central Midfield,8
+Luis Alberto,Central Midfield,10
+Matías Vecino,Central Midfield,5
+Manuel Lazzari,Right Midfield,29
+Daichi Kamada,Attacking Midfield,6
+André Anderson,Attacking Midfield,28
+Mattia Zaccagni,Left Winger,20
+Diego González,Left Winger,22
+Saná Fernandes,Left Winger,70
+Gustav Isaksen,Right Winger,18
+Felipe Anderson,Right Winger,7
+Pedro,Right Winger,9
+Cristiano Lombardi,Right Winger,87
+Taty Castellanos,Centre-Forward,19
+Ciro Immobile,Centre-Forward,17
+Vanja Milinković-Savić,Goalkeeper,32
+Mihai Popa,Goalkeeper,71
+Luca Gemello,Goalkeeper,1
+Pietro Passador,Goalkeeper,65
+Alessandro Buongiorno,Centre-Back,4
+Perr Schuurs,Centre-Back,3
+Matteo Lovato,Centre-Back,6
+Ricardo Rodríguez,Centre-Back,13
+Saba Sazonov,Centre-Back,15
+Koffi Djidji,Centre-Back,26
+Adam Masina,Left-Back,5
+Samuele Ricci,Defensive Midfield,28
+Adrien Tamèze,Defensive Midfield,61
+Ivan Ilić,Central Midfield,8
+Karol Linetty,Central Midfield,77
+Gvidas Gineitis,Central Midfield,66
+Raoul Bellanova,Right Midfield,19
+Valentino Lazaro,Left Midfield,20
+Mërgim Vojvoda,Left Midfield,27
+Nikola Vlasic,Attacking Midfield,16
+Uros Kabic,Right Winger,17
+Antonio Sanabria,Centre-Forward,9
+Duván Zapata,Centre-Forward,91
+Pietro Pellegri,Centre-Forward,11
+David Okereke,Centre-Forward,21
+Alessio Cragno,Goalkeeper,28
+Andrea Consigli,Goalkeeper,47
+Gianluca Pegolo,Goalkeeper,25
+Marash Kumbulla,Centre-Back,19
+Mattia Viti,Centre-Back,21
+Martin Erlić,Centre-Back,5
+Ruan Tressoldi,Centre-Back,44
+Gian Marco Ferrari,Centre-Back,13
+Josh Doig,Left-Back,43
+Marcus Pedersen,Right-Back,3
+Jeremy Toljan,Right-Back,22
+Filippo Missori,Right-Back,2
+Daniel Boloca,Defensive Midfield,24
+Luca Lipani,Defensive Midfield,35
+Uroš Račić,Defensive Midfield,6
+Matheus Henrique,Central Midfield,7
+Pedro Obiang,Central Midfield,14
+Kristian Thorstvedt,Attacking Midfield,42
+Nedim Bajrami,Attacking Midfield,11
+Cristian Volpato,Attacking Midfield,23
+Armand Laurienté,Left Winger,45
+Emil Konradsen Ceide,Left Winger,15
+Domenico Berardi,Right Winger,10
+Samu Castillejo,Right Winger,20
+Andrea Pinamonti,Centre-Forward,9
+Samuele Mulattieri,Centre-Forward,8
+Grégoire Defrel,Centre-Forward,92
+Josep Martínez,Goalkeeper,1
+Nicola Leali,Goalkeeper,16
+Franz Stolz,Goalkeeper,99
+Daniele Sommariva,Goalkeeper,39
+Simone Calvani,Goalkeeper,38
+Koni De Winter,Centre-Back,4
+Johan Vásquez,Centre-Back,22
+Alan Matturro,Centre-Back,33
+Giorgio Cittadini,Centre-Back,23
+Mattia Bani,Centre-Back,13
+Alessandro Vogliacco,Centre-Back,14
+Aarón Martín,Left-Back,3
+Ridgeciano Haps,Left-Back,55
+Djed Spence,Right-Back,90
+Stefano Sabelli,Right-Back,20
+Emil Bohinen,Defensive Midfield,5
+Milan Badelj,Defensive Midfield,47
+Morten Frendrup,Central Midfield,32
+Morten Thorsby,Central Midfield,2
+Kevin Strootman,Central Midfield,8
+Ruslan Malinovskyi,Attacking Midfield,17
+Junior Messias,Right Winger,10
+Albert Gudmundsson,Second Striker,11
+Mateo Retegui,Centre-Forward,19
+Vitinha,Centre-Forward,9
+David Ankeye,Centre-Forward,30
+Caleb Ekuban,Centre-Forward,18
+Maduka Okoye,Goalkeeper,40
+Marco Silvestri,Goalkeeper,1
+Daniele Padelli,Goalkeeper,93
+Nehuén Pérez,Centre-Back,18
+Jaka Bijol,Centre-Back,29
+Thomas Kristensen,Centre-Back,31
+Lautaro Giannetti,Centre-Back,30
+Enzo Ebosse,Centre-Back,23
+João Ferreira,Centre-Back,13
+Christian Kabasele,Centre-Back,27
+Antonio Tikvić,Centre-Back,16
+James Abankwah,Centre-Back,14
+Jordan Zemura,Left-Back,33
+Hassane Kamara,Left-Back,12
+Kingsley Ehizibue,Right-Back,19
+Walace,Defensive Midfield,11
+Lazar Samardžić,Central Midfield,24
+Sandi Lovric,Central Midfield,4
+Martín Payero,Central Midfield,32
+Roberto Pereyra,Central Midfield,37
+Oier Zarraga,Central Midfield,6
+Festy Ebosele,Right Midfield,2
+David Pejičić,Attacking Midfield,79
+Florian Thauvin,Right Winger,26
+Lorenzo Lucca,Centre-Forward,17
+Brenner,Centre-Forward,22
+Isaac Success,Centre-Forward,7
+Keinan Davis,Centre-Forward,9
+Gerard Deulofeu,Centre-Forward,10
+Michele Di Gregorio,Goalkeeper,16
+Alessandro Sorrentino,Goalkeeper,23
+Stefano Gori,Goalkeeper,66
+Pablo Marí,Centre-Back,22
+Andrea Carboni,Centre-Back,44
+Armando Izzo,Centre-Back,4
+Luca Caldirola,Centre-Back,5
+Davide Bettella,Centre-Back,18
+Danilo D'Ambrosio,Centre-Back,33
+Samuele Birindelli,Right-Back,19
+Pedro Pereira,Right-Back,13
+Giulio Donati,Right-Back,2
+Matteo Pessina,Central Midfield,32
+Roberto Gagliardini,Central Midfield,6
+Warren Bondo,Central Midfield,38
+José Machín,Central Midfield,7
+Jean-Daniel Akpa Akpro,Central Midfield,8
+Patrick Ciurria,Right Midfield,84
+Georgios Kyriakopoulos,Left Midfield,77
+Valentín Carboni,Attacking Midfield,21
+Andrea Colpani,Attacking Midfield,28
+Samuele Vignato,Attacking Midfield,80
+Daniel Maldini,Attacking Midfield,27
+Matija Popovic,Attacking Midfield,79
+Alessio Zerbin,Left Winger,20
+Papu Gómez,Left Winger,17
+Gianluca Caprari,Second Striker,10
+Lorenzo Colombo,Centre-Forward,9
+Dany Mota,Centre-Forward,47
+Milan Djuric,Centre-Forward,11
+Stefano Turati,Goalkeeper,80
+Michele Cerofolini,Goalkeeper,31
+Pierluigi Frattali,Goalkeeper,1
+Caleb Okoli,Centre-Back,5
+Ilario Monterisi,Centre-Back,30
+Kevin Bonifazi,Centre-Back,33
+Simone Romagnoli,Centre-Back,6
+Mateus Lusuardi,Centre-Back,47
+Sergio Kalaj,Centre-Back,23
+Riccardo Marchizza,Left-Back,3
+Emanuele Valeri,Left-Back,32
+Anthony Oyono,Right-Back,22
+Pol Lirola,Right-Back,20
+Enzo Barrenechea,Defensive Midfield,45
+Luca Mazzitelli,Central Midfield,36
+Marco Brescianini,Central Midfield,4
+Abdou Harroui,Central Midfield,21
+Nadir Zortea,Right Midfield,19
+Reinier,Attacking Midfield,12
+Luca Garritano,Attacking Midfield,16
+Francesco Gelli,Attacking Midfield,14
+İsak Vural,Attacking Midfield,15
+Arijon Ibrahimovic,Left Winger,27
+Giuseppe Caso,Left Winger,10
+Jaime Báez,Left Winger,7
+Giorgi Kvernadze,Left Winger,17
+Soufiane Bidaoui,Left Winger,26
+Matías Soulé,Right Winger,18
+Demba Seck,Right Winger,8
+Farès Ghedjemis,Right Winger,29
+Walid Cheddira,Centre-Forward,70
+Kaio Jorge,Centre-Forward,9
+Marvin Cuni,Centre-Forward,11
+Wladimiro Falcone,Goalkeeper,30
+Federico Brancolini,Goalkeeper,21
+Alexandru Borbei,Goalkeeper,98
+Jasper Samooja,Goalkeeper,40
+Federico Baschirotto,Centre-Back,6
+Marin Pongracic,Centre-Back,5
+Ahmed Touba,Centre-Back,59
+Kastriot Dermaku,Centre-Back,55
+Patrick Dorgu,Left-Back,13
+Antonino Gallo,Left-Back,25
+Valentin Gendrey,Right-Back,17
+Lorenzo Venuti,Right-Back,12
+Ylber Ramadani,Defensive Midfield,20
+Alexis Blin,Defensive Midfield,29
+Joan González,Central Midfield,16
+Mohamed Kaba,Central Midfield,77
+Hamza Rafia,Central Midfield,8
+Daniel Samek,Central Midfield,83
+Medon Berisha,Central Midfield,18
+Rémi Oudin,Attacking Midfield,10
+Lameck Banda,Left Winger,22
+Nicola Sansone,Left Winger,11
+Pontus Almqvist,Right Winger,7
+Santiago Pierotti,Right Winger,50
+Jeppe Corfitzen,Right Winger,24
+Nikola Krstovic,Centre-Forward,9
+Roberto Piccoli,Centre-Forward,91
+Rareș Burnete,Centre-Forward,45
+Guillermo Ochoa,Goalkeeper,13
+Benoît Costil,Goalkeeper,56
+Vincenzo Fiorillo,Goalkeeper,1
+Pasquale Allocca,Goalkeeper,62
+Lorenzo Pirola,Centre-Back,98
+Marco Pellegrino,Centre-Back,24
+Norbert Gyömbér,Centre-Back,23
+Konstantinos Manolas,Centre-Back,44
+Triantafyllos Pasalidis,Centre-Back,4
+Jérôme Boateng,Centre-Back,5
+Federico Fazio,Centre-Back,17
+Domagoj Bradaric,Left-Back,3
+Alessandro Zanoli,Right-Back,59
+Junior Sambia,Right-Back,6
+Niccolò Pierozzi,Right-Back,27
+Mateusz Legowski,Defensive Midfield,99
+Lassana Coulibaly,Central Midfield,18
+Giulio Maggiore,Central Midfield,25
+Toma Bašić,Central Midfield,26
+Antonio Candreva,Right Midfield,87
+Agustín Martegani,Attacking Midfield,7
+Grigoris Kastanos,Attacking Midfield,20
+Iron Gomis,Attacking Midfield,11
+Andres Sfait,Left Winger,36
+Loum Tchaouna,Right Winger,33
+Emanuel Vignato,Right Winger,55
+Boulaye Dia,Centre-Forward,10
+Shon Weissman,Centre-Forward,14
+Chukwubuikem Ikwuemesi,Centre-Forward,22
+Simy,Centre-Forward,9
+Mikael,Centre-Forward,-
+Simone Scuffet,Goalkeeper,22
+Boris Radunović,Goalkeeper,1
+Simone Aresti,Goalkeeper,18
+Alberto Dossena,Centre-Back,4
+Pantelis Hatzidiakos,Centre-Back,17
+Mateusz Wieteska,Centre-Back,23
+Yerry Mina,Centre-Back,26
+Adam Obert,Centre-Back,33
+Tommaso Augello,Left-Back,27
+Paulo Azzi,Left-Back,37
+Gabriele Zappa,Right-Back,28
+Alessandro Di Pardo,Right-Back,99
+Matteo Prati,Defensive Midfield,16
+Antoine Makoumbou,Defensive Midfield,29
+Ibrahim Sulemana,Defensive Midfield,25
+Nahitan Nández,Central Midfield,8
+Alessandro Deiola,Central Midfield,14
+Nicolas Viola,Central Midfield,10
+Jakub Jankto,Left Midfield,21
+Gianluca Gaetano,Attacking Midfield,70
+Gaetano Oristanio,Attacking Midfield,19
+Marco Mancosu,Attacking Midfield,5
+Zito Luvumbo,Centre-Forward,77
+Andrea Petagna,Centre-Forward,32
+Eldor Shomurodov,Centre-Forward,61
+Gianluca Lapadula,Centre-Forward,9
+Leonardo Pavoletti,Centre-Forward,30
+Elia Caprile,Goalkeeper,25
+Samuele Perisan,Goalkeeper,1
+Etrit Berisha,Goalkeeper,99
+Sebastiano Luperto,Centre-Back,33
+Ardian Ismajli,Centre-Back,34
+Sebastian Walukiewicz,Centre-Back,4
+Saba Goglichidze,Centre-Back,2
+Lorenzo Tonelli,Centre-Back,-
+Giuseppe Pezzella,Left-Back,3
+Liberato Cacace,Left-Back,13
+Tyronne Ebuehi,Right-Back,24
+Bartosz Bereszyński,Right-Back,19
+Alberto Grassi,Defensive Midfield,5
+Jacopo Fazzini,Central Midfield,21
+Youssef Maleh,Central Midfield,29
+Răzvan Marin,Central Midfield,18
+Szymon Żurkowski,Central Midfield,27
+Luca Belardinelli,Central Midfield,16
+Simone Bastoni,Central Midfield,30
+Viktor Kovalenko,Attacking Midfield,8
+Nicolò Cambiaghi,Left Winger,28
+Emmanuel Gyasi,Left Winger,11
+Matteo Cancellieri,Right Winger,20
+M'Baye Niang,Centre-Forward,10
+Stiven Shpendi,Centre-Forward,7
+Alberto Cerri,Centre-Forward,17
+Francesco Caputo,Centre-Forward,9
+Mattia Destro,Centre-Forward,23
+Lorenzo Montipò,Goalkeeper,1
+Simone Perilli,Goalkeeper,34
+Mattia Chiesa,Goalkeeper,16
+Alessandro Berardi,Goalkeeper,22
+Diego Coppola,Centre-Back,42
+Giangiacomo Magnani,Centre-Back,23
+Paweł Dawidowicz,Centre-Back,27
+Juan Cabal,Centre-Back,32
+Rúben Vinagre,Left-Back,19
+Fabien Centonze,Right-Back,18
+Jackson Tchatchoua,Right-Back,38
+Reda Belahyane,Defensive Midfield,6
+Charlys,Defensive Midfield,37
+Joselito,Defensive Midfield,14
+Michael Folorunsho,Central Midfield,90
+Suat Serdar,Central Midfield,25
+Ondrej Duda,Central Midfield,33
+Dani Silva,Central Midfield,21
+Darko Lazović,Left Midfield,8
+Tomas Suslov,Attacking Midfield,31
+Stefan Mitrović,Left Winger,10
+Tijjani Noslin,Right Winger,17
+Elayis Tavsan,Right Winger,7
+Karol Świderski,Centre-Forward,11
+Thomas Henry,Centre-Forward,9
+Federico Bonazzoli,Centre-Forward,99
+Juan Manuel Cruz,Centre-Forward,13

@@ -1,0 +1,504 @@
+name,position,shirt_no
+Manuel Neuer,Goalkeeper,1
+Daniel Peretz,Goalkeeper,18
+Sven Ulreich,Goalkeeper,26
+Tom Hülsmann,Goalkeeper,42
+Matthijs de Ligt,Centre-Back,4
+Min-jae Kim,Centre-Back,3
+Dayot Upamecano,Centre-Back,2
+Eric Dier,Centre-Back,15
+Tarek Buchmann,Centre-Back,28
+Alphonso Davies,Left-Back,19
+Raphaël Guerreiro,Left-Back,22
+Noussair Mazraoui,Right-Back,40
+Sacha Boey,Right-Back,23
+Bouna Sarr,Right-Back,20
+Joshua Kimmich,Defensive Midfield,6
+Aleksandar Pavlovic,Defensive Midfield,45
+Leon Goretzka,Central Midfield,8
+Konrad Laimer,Central Midfield,27
+Jamal Musiala,Attacking Midfield,42
+Kingsley Coman,Left Winger,11
+Mathys Tel,Left Winger,39
+Bryan Zaragoza,Left Winger,17
+Leroy Sané,Right Winger,10
+Serge Gnabry,Right Winger,7
+Thomas Müller,Second Striker,25
+Harry Kane,Centre-Forward,9
+Eric-Maxim Choupo-Moting,Centre-Forward,13
+Matej Kovar,Goalkeeper,17
+Lukas Hradecky,Goalkeeper,1
+Niklas Lomb,Goalkeeper,36
+Edmond Tapsoba,Centre-Back,12
+Piero Hincapié,Centre-Back,3
+Odilon Kossounou,Centre-Back,6
+Jonathan Tah,Centre-Back,4
+Josip Stanisic,Centre-Back,2
+Madi Monamay,Centre-Back,31
+Alejandro Grimaldo,Left-Back,20
+Arthur,Right-Back,13
+Timothy Fosu-Mensah,Right-Back,24
+Granit Xhaka,Defensive Midfield,34
+Robert Andrich,Defensive Midfield,8
+Noah Mbamba,Defensive Midfield,18
+Exequiel Palacios,Central Midfield,25
+Gustavo Puerta,Central Midfield,32
+Jeremie Frimpong,Right Midfield,30
+Florian Wirtz,Attacking Midfield,10
+Jonas Hofmann,Attacking Midfield,7
+Ayman Aourir,Attacking Midfield,47
+Amine Adli,Left Winger,21
+Nathan Tella,Right Winger,19
+Victor Boniface,Centre-Forward,22
+Patrik Schick,Centre-Forward,14
+Adam Hlozek,Centre-Forward,23
+Borja Iglesias,Centre-Forward,9
+Péter Gulácsi,Goalkeeper,1
+Janis Blaswich,Goalkeeper,21
+Timo Schlieck,Goalkeeper,36
+Leopold Zingerle,Goalkeeper,25
+Castello Lukeba,Centre-Back,23
+Mohamed Simakan,Centre-Back,2
+El Chadaille Bitshiabu,Centre-Back,5
+Willi Orbán,Centre-Back,4
+Lukas Klostermann,Centre-Back,16
+Tim Köhler,Centre-Back,31
+David Raum,Left-Back,22
+Christopher Lenz,Left-Back,3
+Benjamin Henrichs,Right-Back,39
+Xaver Schlager,Central Midfield,24
+Amadou Haidara,Central Midfield,8
+Nicolas Seiwald,Central Midfield,13
+Kevin Kampl,Central Midfield,44
+Xavi Simons,Attacking Midfield,20
+Dani Olmo,Attacking Midfield,7
+Eljif Elmas,Attacking Midfield,6
+Christoph Baumgartner,Attacking Midfield,14
+Loïs Openda,Centre-Forward,17
+Benjamin Sesko,Centre-Forward,30
+Yussuf Poulsen,Centre-Forward,9
+Gregor Kobel,Goalkeeper,1
+Marcel Lotka,Goalkeeper,35
+Alexander Meyer,Goalkeeper,33
+Nico Schlotterbeck,Centre-Back,4
+Niklas Süle,Centre-Back,25
+Mats Hummels,Centre-Back,15
+Antonios Papadopoulos,Centre-Back,47
+Ian Maatsen,Left-Back,22
+Ramy Bensebaini,Left-Back,5
+Julian Ryerson,Right-Back,26
+Marius Wolf,Right-Back,17
+Mateu Morey,Right-Back,2
+Salih Özcan,Defensive Midfield,6
+Emre Can,Defensive Midfield,23
+Abdoulaye Kamara,Defensive Midfield,32
+Felix Nmecha,Central Midfield,8
+Marcel Sabitzer,Central Midfield,20
+Ole Pohlmann,Central Midfield,30
+Julian Brandt,Attacking Midfield,19
+Marco Reus,Attacking Midfield,11
+Karim Adeyemi,Left Winger,27
+Jamie Bynoe-Gittens,Left Winger,43
+Jadon Sancho,Left Winger,10
+Donyell Malen,Right Winger,21
+Julien Duranville,Right Winger,16
+Youssoufa Moukoko,Centre-Forward,18
+Niclas Füllkrug,Centre-Forward,14
+Sébastien Haller,Centre-Forward,9
+Alexander Nübel,Goalkeeper,33
+Fabian Bredlow,Goalkeeper,1
+Dennis Seimen,Goalkeeper,41
+Florian Schock,Goalkeeper,42
+Hiroki Ito,Centre-Back,21
+Waldemar Anton,Centre-Back,2
+Dan-Axel Zagadou,Centre-Back,23
+Anthony Rouault,Centre-Back,29
+Leonidas Stergiou,Centre-Back,20
+Maximilian Mittelstädt,Left-Back,7
+Josha Vagnoman,Right-Back,4
+Pascal Stenzel,Right-Back,15
+Angelo Stiller,Defensive Midfield,6
+Atakan Karazor,Defensive Midfield,16
+Mahmoud Dahoud,Central Midfield,5
+Nikolas Nartey,Central Midfield,28
+Roberto Massimo,Right Midfield,32
+Enzo Millot,Attacking Midfield,8
+Woo-yeong Jeong,Attacking Midfield,10
+Lilian Egloff,Attacking Midfield,25
+Genki Haraguchi,Attacking Midfield,17
+Laurin Ulrich,Attacking Midfield,36
+Chris Führich,Left Winger,27
+Silas,Right Winger,14
+Jamie Leweling,Right Winger,18
+Luca Raimund,Right Winger,40
+Serhou Guirassy,Centre-Forward,9
+Deniz Undav,Centre-Forward,26
+Kevin Trapp,Goalkeeper,1
+Kauã Santos,Goalkeeper,40
+Jens Grahl,Goalkeeper,33
+Simon Simoni,Goalkeeper,41
+Willian Pacho,Centre-Back,3
+Robin Koch,Centre-Back,4
+Tuta,Centre-Back,35
+Hrvoje Smolcic,Centre-Back,5
+Nnamdi Collins,Centre-Back,34
+Makoto Hasebe,Centre-Back,20
+Dario Gebuhr,Centre-Back,46
+Davis Bautista,Centre-Back,44
+Niels Nkounkou,Left-Back,29
+Philipp Max,Left-Back,31
+Aurélio Buta,Right-Back,24
+Elias Baum,Right-Back,47
+Timothy Chandler,Right-Back,22
+Ellyes Skhiri,Defensive Midfield,15
+Hugo Larsson,Central Midfield,16
+Junior Dina Ebimbe,Central Midfield,26
+Donny van de Beek,Central Midfield,25
+Sebastian Rode,Central Midfield,17
+Sidney Raebiger,Central Midfield,37
+Mehdi Loune,Central Midfield,45
+Harpreet Ghotra,Central Midfield,49
+Farès Chaïbi,Attacking Midfield,8
+Mario Götze,Attacking Midfield,27
+Jean-Mattéo Bahoya,Left Winger,19
+Ansgar Knauff,Right Winger,36
+Omar Marmoush,Centre-Forward,7
+Hugo Ekitiké,Centre-Forward,11
+Sasa Kalajdzic,Centre-Forward,9
+Nacho Ferri,Centre-Forward,48
+Noel Futkeu,Centre-Forward,43
+Koen Casteels,Goalkeeper,1
+Pavao Pervan,Goalkeeper,12
+Niklas Klinger,Goalkeeper,30
+Maxence Lacroix,Centre-Back,4
+Moritz Jenz,Centre-Back,25
+Sebastiaan Bornauw,Centre-Back,3
+Cédric Zesiger,Centre-Back,5
+Rogério,Left-Back,13
+Joakim Maehle,Right-Back,21
+Ridle Baku,Right-Back,20
+Kilian Fischer,Right-Back,2
+Kofi Amoako,Defensive Midfield,41
+Mattias Svanberg,Central Midfield,32
+Aster Vranckx,Central Midfield,6
+Maximilian Arnold,Central Midfield,27
+Yannick Gerhardt,Central Midfield,31
+Kevin Paredes,Left Midfield,40
+Lovro Majer,Attacking Midfield,19
+Jakub Kaminski,Left Winger,16
+Ulysses Llanez,Left Winger,26
+Patrick Wimmer,Right Winger,39
+Vaclav Cerny,Right Winger,7
+Jonas Wind,Centre-Forward,23
+Lukas Nmecha,Centre-Forward,10
+Tiago Tomás,Centre-Forward,11
+Amin Sarr,Centre-Forward,9
+Kevin Behrens,Centre-Forward,17
+Dzenan Pejcinovic,Centre-Forward,18
+Noah Atubolu,Goalkeeper,1
+Florian Müller,Goalkeeper,21
+Benjamin Uphoff,Goalkeeper,31
+Philipp Lienhart,Centre-Back,3
+Matthias Ginter,Centre-Back,28
+Attila Szalai,Centre-Back,6
+Kenneth Schmidt,Centre-Back,4
+Manuel Gulde,Centre-Back,5
+Max Rosenfelder,Centre-Back,37
+Christian Günter,Left-Back,30
+Jordy Makengo,Left-Back,33
+Kiliann Sildillia,Right-Back,25
+Lukas Kübler,Right-Back,17
+Yannik Keitel,Defensive Midfield,14
+Nicolas Höfler,Defensive Midfield,27
+Maximilian Eggestein,Central Midfield,8
+Merlin Röhl,Central Midfield,34
+Daniel-Kofi Kyereh,Attacking Midfield,11
+Vincenzo Grifo,Left Winger,32
+Noah Weißhaupt,Left Winger,7
+Florent Muslija,Left Winger,23
+Roland Sallai,Right Winger,22
+Ritsu Doan,Right Winger,42
+Maximilian Philipp,Second Striker,26
+Michael Gregoritsch,Centre-Forward,38
+Lucas Höler,Centre-Forward,9
+Junior Adamu,Centre-Forward,20
+Jonas Omlin,Goalkeeper,1
+Moritz Nicolas,Goalkeeper,33
+Jan Olschowsky,Goalkeeper,41
+Tobias Sippel,Goalkeeper,21
+Maximilian Brüll,Goalkeeper,43
+Ko Itakura,Centre-Back,3
+Maximilian Wöber,Centre-Back,39
+Nico Elvedi,Centre-Back,30
+Marvin Friedrich,Centre-Back,5
+Fabio Chiarodia,Centre-Back,2
+Tony Jantschke,Centre-Back,24
+Mamadou Doucouré,Centre-Back,4
+Luca Netz,Left-Back,20
+Lukas Ullrich,Left-Back,26
+Joe Scally,Right-Back,29
+Stefan Lainer,Right-Back,18
+Simon Walde,Right-Back,45
+Julian Weigl,Defensive Midfield,8
+Christoph Kramer,Defensive Midfield,23
+Manu Koné,Central Midfield,17
+Rocco Reitz,Central Midfield,27
+Florian Neuhaus,Central Midfield,10
+Robin Hack,Left Winger,25
+Franck Honorat,Right Winger,9
+Nathan Ngoumou,Right Winger,19
+Patrick Herrmann,Right Winger,7
+Tomas Cvancara,Centre-Forward,31
+Alassane Plea,Centre-Forward,14
+Jordan,Centre-Forward,13
+Grant-Leon Ranos,Centre-Forward,28
+Shio Fukuda,Centre-Forward,49
+Frederik Rönnow,Goalkeeper,1
+Alexander Schwolow,Goalkeeper,37
+Jakob Busk,Goalkeeper,12
+Danilho Doekhi,Centre-Back,5
+Diogo Leite,Centre-Back,4
+Robin Knoche,Centre-Back,31
+Kevin Vogt,Centre-Back,2
+Paul Jaeckel,Centre-Back,3
+Jérôme Roussillon,Left-Back,26
+Josip Juranovic,Right-Back,18
+Christopher Trimmel,Right-Back,28
+Rani Khedira,Defensive Midfield,8
+Alex Král,Defensive Midfield,33
+Lucas Tousart,Defensive Midfield,29
+Noah Engelbreth,Defensive Midfield,42
+Aïssa Laïdouni,Central Midfield,20
+András Schäfer,Central Midfield,13
+Janik Haberer,Central Midfield,19
+Robin Gosens,Left Midfield,6
+Brenden Aaronson,Attacking Midfield,7
+Yorbe Vertessen,Left Winger,14
+Kevin Volland,Centre-Forward,10
+Benedict Hollerbach,Centre-Forward,16
+Chris Bedia,Centre-Forward,11
+Mikkel Kaufmann,Centre-Forward,9
+Oliver Baumann,Goalkeeper,1
+Luca Philipp,Goalkeeper,37
+Nahuel Noll,Goalkeeper,36
+Ozan Kabak,Centre-Back,5
+Kevin Akpoguma,Centre-Back,25
+Stanley Nsoki,Centre-Back,34
+John Brooks,Centre-Back,23
+Kasim Adams,Centre-Back,15
+Tim Drexler,Centre-Back,35
+David Jurásek,Left-Back,19
+Marco John,Left-Back,24
+Pavel Kaderabek,Right-Back,3
+Florian Grillitsch,Defensive Midfield,11
+Anton Stach,Central Midfield,16
+Grischa Prömel,Central Midfield,6
+Umut Tohumcu,Central Midfield,40
+Dennis Geiger,Central Midfield,8
+Finn Becker,Central Midfield,20
+Robert Skov,Left Midfield,29
+Tom Bischof,Attacking Midfield,39
+Marius Bülter,Left Winger,21
+Bambasé Conté,Left Winger,31
+Maximilian Beier,Centre-Forward,14
+Mergim Berisha,Centre-Forward,7
+Wout Weghorst,Centre-Forward,10
+Andrej Kramaric,Centre-Forward,27
+Ihlas Bebou,Centre-Forward,9
+Max Moerstedt,Centre-Forward,33
+Finn Dahmen,Goalkeeper,1
+Tomas Koubek,Goalkeeper,40
+Marcel Lubik,Goalkeeper,33
+Felix Uduokhai,Centre-Back,19
+Maximilian Bauer,Centre-Back,23
+Jeffrey Gouweleeuw,Centre-Back,6
+Patric Pfeiffer,Centre-Back,5
+Reece Oxford,Centre-Back,4
+Iago,Left-Back,22
+Mads Pedersen,Left-Back,3
+Kevin Mbabu,Right-Back,43
+Robert Gumny,Right-Back,2
+Raphael Framberger,Right-Back,32
+Kristijan Jakic,Defensive Midfield,17
+Niklas Dorsch,Defensive Midfield,30
+Tim Breithaupt,Defensive Midfield,18
+Arne Engels,Central Midfield,27
+Arne Maier,Central Midfield,10
+Elvis Rexhbecaj,Central Midfield,8
+Pep Biel,Attacking Midfield,11
+Fredrik Jensen,Attacking Midfield,24
+Mert Kömür,Attacking Midfield,36
+Rubén Vargas,Right Winger,16
+Ermedin Demirovic,Centre-Forward,9
+Dion Beljo,Centre-Forward,7
+Phillip Tietz,Centre-Forward,21
+Sven Michel,Centre-Forward,20
+Robin Zentner,Goalkeeper,27
+Daniel Batz,Goalkeeper,33
+Lasse Rieß,Goalkeeper,1
+Andreas Hanche-Olsen,Centre-Back,25
+Sepp van den Berg,Centre-Back,3
+Edimilson Fernandes,Centre-Back,20
+Maxim Leitsch,Centre-Back,5
+Stefan Bell,Centre-Back,16
+Anthony Caci,Left-Back,19
+Silvan Widmer,Right-Back,30
+Phillipp Mwene,Right-Back,2
+Danny da Costa,Right-Back,21
+Dominik Kohr,Defensive Midfield,31
+Josuha Guilavogui,Defensive Midfield,23
+Leandro Barreiro,Central Midfield,8
+Tom Krauß,Central Midfield,14
+Nadiem Amiri,Central Midfield,18
+Merveille Papela,Central Midfield,24
+Jae-sung Lee,Attacking Midfield,7
+Marco Richter,Attacking Midfield,10
+Brajan Gruda,Right Winger,43
+David Mamutovic,Right Winger,45
+Jonathan Burkardt,Centre-Forward,29
+Nelson Weiper,Centre-Forward,44
+Ludovic Ajorque,Centre-Forward,17
+Karim Onisiwo,Centre-Forward,9
+Jessic Ngankam,Centre-Forward,11
+Michael Zetterer,Goalkeeper,30
+Jiri Pavlenka,Goalkeeper,1
+Dudu,Goalkeeper,38
+Marco Friedl,Centre-Back,32
+Niklas Stark,Centre-Back,4
+Amos Pieper,Centre-Back,5
+Milos Veljkovic,Centre-Back,13
+Julián Malatini,Centre-Back,22
+Anthony Jung,Centre-Back,3
+Mitchell Weiser,Right-Back,8
+Felix Agu,Right-Back,27
+Senne Lynen,Defensive Midfield,14
+Christian Groß,Defensive Midfield,36
+Jens Stage,Central Midfield,6
+Naby Keïta,Central Midfield,18
+Skelly Alvero,Central Midfield,28
+Olivier Deman,Left Midfield,2
+Leon Opitz,Left Midfield,35
+Romano Schmid,Attacking Midfield,20
+Leonardo Bittencourt,Attacking Midfield,10
+Isak Hansen-Aarøen,Attacking Midfield,21
+Justin Njinmah,Right Winger,17
+Marvin Ducksch,Centre-Forward,7
+Dawid Kownacki,Centre-Forward,9
+Nick Woltemade,Centre-Forward,29
+Marvin Schwäbe,Goalkeeper,1
+Philipp Pentke,Goalkeeper,20
+Jonas Nickisch,Goalkeeper,12
+Matthias Köbbing,Goalkeeper,44
+Jeff Chabot,Centre-Back,24
+Timo Hübers,Centre-Back,4
+Luca Kilian,Centre-Back,15
+Dominique Heintz,Centre-Back,3
+Elias Bakatukanda,Centre-Back,38
+Max Finkgräfe,Left-Back,35
+Leart Paçarada,Left-Back,17
+Rasmus Carstensen,Right-Back,18
+Benno Schmitz,Right-Back,2
+Eric Martel,Defensive Midfield,6
+Dejan Ljubicic,Defensive Midfield,7
+Jacob Christensen,Defensive Midfield,22
+Denis Huseinbasic,Central Midfield,8
+Florian Kainz,Attacking Midfield,11
+Faride Alidou,Left Winger,40
+Justin Diehl,Left Winger,45
+Jan Thielmann,Right Winger,29
+Linton Maina,Right Winger,37
+Davie Selke,Centre-Forward,27
+Luca Waldschmidt,Centre-Forward,9
+Steffen Tigges,Centre-Forward,21
+Mark Uth,Centre-Forward,13
+Damion Downs,Centre-Forward,42
+Florian Dietz,Centre-Forward,33
+Sargis Adamyan,Centre-Forward,23
+Manuel Riemann,Goalkeeper,1
+Niclas Thiede,Goalkeeper,23
+Andreas Luthe,Goalkeeper,16
+Michael Esser,Goalkeeper,21
+Erhan Masovic,Centre-Back,4
+Bernardo,Centre-Back,5
+Keven Schlotterbeck,Centre-Back,31
+Tim Oermann,Centre-Back,14
+Ivan Ordets,Centre-Back,20
+Noah Loosli,Centre-Back,41
+Mohammed Tolba,Centre-Back,25
+Maximilian Wittek,Left-Back,32
+Danilo Soares,Left-Back,3
+Moritz Römling,Left-Back,30
+Felix Passlack,Right-Back,15
+Cristian Gamboa,Right-Back,2
+Agon Elezi,Defensive Midfield,17
+Anthony Losilla,Defensive Midfield,8
+Patrick Osterhage,Central Midfield,6
+Matus Bero,Central Midfield,19
+Kevin Stöger,Attacking Midfield,7
+Philipp Förster,Attacking Midfield,10
+Lukas Daschner,Attacking Midfield,13
+Moritz-Broni Kwarteng,Attacking Midfield,27
+Christopher Antwi-Adjei,Left Winger,22
+Takuma Asano,Right Winger,11
+Moritz Broschinski,Centre-Forward,29
+Philipp Hofmann,Centre-Forward,33
+Gonçalo Paciência,Centre-Forward,9
+Kevin Müller,Goalkeeper,1
+Vitus Eicher,Goalkeeper,22
+Paul Tschernuth,Goalkeeper,34
+Frank Feller,Goalkeeper,40
+Benedikt Gimber,Centre-Back,5
+Patrick Mainka,Centre-Back,6
+Tim Siersleben,Centre-Back,4
+Thomas Keller,Centre-Back,27
+Jonas Föhrenbach,Left-Back,19
+Norman Theuerkauf,Left-Back,30
+Seedy Jarju,Left-Back,29
+Omar Traoré,Right-Back,23
+Marnon Busch,Right-Back,2
+Lennard Maloney,Defensive Midfield,33
+Luka Janes,Defensive Midfield,36
+Jan Schöppner,Central Midfield,3
+Kevin Sessa,Central Midfield,16
+Adrian Beck,Attacking Midfield,21
+Denis Thomalla,Attacking Midfield,11
+Jan-Niklas Beste,Left Winger,37
+Florian Pick,Left Winger,17
+Eren Dinkçi,Right Winger,8
+Nikola Dovedan,Second Striker,20
+Tim Kleindienst,Centre-Forward,10
+Marvin Pieringer,Centre-Forward,18
+Stefan Schimmer,Centre-Forward,9
+Christian Kühlwetter,Centre-Forward,24
+Elidon Qenaj,Centre-Forward,44
+Marcel Schuhen,Goalkeeper,1
+Alexander Brunst,Goalkeeper,30
+Morten Behrens,Goalkeeper,13
+Max Wendt,Goalkeeper,45
+Christoph Klarer,Centre-Back,14
+Matej Maglica,Centre-Back,5
+Clemens Riedel,Centre-Back,38
+Christoph Zimmermann,Centre-Back,4
+Jannik Müller,Centre-Back,20
+Thomas Isherwood,Centre-Back,3
+Emir Karic,Left-Back,19
+Fabian Holland,Left-Back,32
+Matthias Bader,Right-Back,26
+Bartol Franjic,Defensive Midfield,28
+Andreas Müller,Defensive Midfield,16
+Klaus Gjasula,Defensive Midfield,23
+Fabian Nürnberger,Central Midfield,15
+Fabian Schnellhardt,Central Midfield,8
+Tobias Kempe,Central Midfield,11
+Marvin Mehlem,Attacking Midfield,6
+Julian Justvan,Attacking Midfield,17
+Gerrit Holtmann,Left Winger,25
+Mathias Honsak,Left Winger,18
+Tim Skarke,Right Winger,27
+Oscar Vilhelmsson,Centre-Forward,29
+Fraser Hornby,Centre-Forward,9
+Braydon Manu,Centre-Forward,7
+Luca Pfeiffer,Centre-Forward,24
+Sebastian Polter,Centre-Forward,40
+Aaron Seydel,Centre-Forward,22
+Fabio Torsiello,Centre-Forward,42
